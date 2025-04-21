@@ -1,4 +1,4 @@
-# Internship Recommendation System
+# Internship Recommendation System using RL
 
 This project is a Streamlit-based web application that recommends internships to users by analyzing their resumes. It leverages natural language processing (NLP) with spaCy to extract skills and experience, combined with reinforcement learning (RL) to suggest relevant internships from a predefined dataset. The system aims to streamline the process of finding internship opportunities tailored to a user's profile.
 
